@@ -47,8 +47,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:ARAVIND SAMY.P
+### Register Number:212222230011
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
