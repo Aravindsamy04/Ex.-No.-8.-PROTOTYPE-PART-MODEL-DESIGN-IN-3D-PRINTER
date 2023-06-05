@@ -47,7 +47,8 @@
 
 ## Output:
 
-![Screenshot (34)](https://github.com/Aravindsamy04/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113497037/be980df9-8023-4002-810a-8ccf6e442067)
+![Screenshot (37)](https://github.com/Aravindsamy04/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113497037/3c501f6b-51c6-48c9-9283-a784c2315099)
+
 
 ### Name:ARAVIND SAMY.P
 ### Register Number:212222230011
